@@ -10,3 +10,4 @@ Repositorio con los patrones Vistos en Clave
 + Patron Prototipo.
 + Patron Singleton.
 + Patron Adaptador. (Falta)
++ Patron Constructor.
