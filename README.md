@@ -1,4 +1,12 @@
-# architectureAndPatterns
+# Arquitectura y Diseño de Patrones
 
-This repository is for all the crazy stuff that i made in class.
-Implementacion de los patrones vistos en clase.!
+Repositorio con los patrones Vistos en Clave
+
++ Patron Decorador.
++ Patron Estrategia.
++ Patron Factory.
++ Patron Abstract Factory. (Falta)
++ Patron Observador.
++ Patron Prototipo.
++ Patron Singleton.
++ Patron Adaptador. (Falta)
