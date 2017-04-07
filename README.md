@@ -9,5 +9,5 @@ Repositorio con los patrones Vistos en Clave
 + Patron Observador.
 + Patron Prototipo.
 + Patron Singleton.
-+ Patron Adaptador. (Falta)
++ Patron Adaptador.
 + Patron Constructor.
